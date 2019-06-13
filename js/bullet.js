@@ -37,7 +37,7 @@ Bullet.prototype.render = function () {
     ctx.fillStyle = "red";
     ctx.fill();
     ctx.lineWidth = 5;
-    ctx.strokeStyle = '#003300';
+    ctx.strokeStyle = '#2c5cd6';
     ctx.stroke();
     ctx.restore();
 };
